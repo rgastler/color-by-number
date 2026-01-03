@@ -1,0 +1,14 @@
+[project]
+name = "color-by-number"
+version = "0.1.0"
+description = "Generate color-by-number worksheets from images"
+requires-python = ">=3.10"
+
+dependencies = [
+    "numpy",
+    "opencv-python",
+    "pandas",
+    "pygame",
+    "fpdf",
+    "python-docx",
+]
